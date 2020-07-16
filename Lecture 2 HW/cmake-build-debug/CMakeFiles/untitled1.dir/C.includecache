@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/riyapatel/CLionProjects/Lecture 2 HW/QuadraticSolver_Assignment_1_Riya.c
+stdio.h
+-
+math.h
+-
+

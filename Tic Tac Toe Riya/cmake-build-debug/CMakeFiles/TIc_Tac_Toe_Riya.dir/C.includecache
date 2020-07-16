@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/riyapatel/CLionProjects/TIc Tac Toe Riya/tic_tac_toe_functions.c
+stdio.h
+-
+stdlib.h
+-
+

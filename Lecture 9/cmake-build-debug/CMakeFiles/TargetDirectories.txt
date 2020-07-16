@@ -1,0 +1,2 @@
+/Users/riyapatel/CLionProjects/Lecture 9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/riyapatel/CLionProjects/Lecture 9/cmake-build-debug/CMakeFiles/edit_cache.dir

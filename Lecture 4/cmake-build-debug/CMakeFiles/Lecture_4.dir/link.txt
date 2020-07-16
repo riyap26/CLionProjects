@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Lecture_4.dir/cCount_Assignment_3_Riya.c.o  -o Lecture_4 

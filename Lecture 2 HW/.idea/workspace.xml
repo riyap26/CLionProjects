@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="untitled1" targetName="untitled1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c07c20e-ecf2-411b-8d5f-4a757acce601" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="ProjectId" id="1e0nUhVovRiliPuQ2ySzdxRoQeQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="untitled1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled1" TARGET_NAME="untitled1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled1" RUN_TARGET_NAME="untitled1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c07c20e-ecf2-411b-8d5f-4a757acce601" name="Default Changelist" comment="" />
+      <created>1593467394349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593467394349</updated>
+      <workItem from="1593467395948" duration="115000" />
+      <workItem from="1593467554889" duration="18000" />
+      <workItem from="1593467721061" duration="1000" />
+      <workItem from="1593530896694" duration="6732000" />
+      <workItem from="1593557293778" duration="213000" />
+      <workItem from="1593557531157" duration="1769000" />
+      <workItem from="1593560782721" duration="225000" />
+      <workItem from="1593561067975" duration="7257000" />
+      <workItem from="1593569114643" duration="1000" />
+      <workItem from="1593615767061" duration="302000" />
+      <workItem from="1593628575674" duration="123000" />
+      <workItem from="1593640719968" duration="12000" />
+      <workItem from="1593640747192" duration="8000" />
+      <workItem from="1593646088814" duration="268000" />
+      <workItem from="1593992146293" duration="2855000" />
+      <workItem from="1593995338349" duration="6000" />
+      <workItem from="1594053315548" duration="22000" />
+      <workItem from="1594519771757" duration="12000" />
+      <workItem from="1594587405158" duration="251000" />
+      <workItem from="1594763405844" duration="338000" />
+      <workItem from="1594763995530" duration="414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593567767145">
+      <screen x="0" y="23" width="1440" height="796" />
+    </state>
+    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.796@0.23.1440.796" timestamp="1593567767145" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom" timestamp="1594763812067">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1594763812067" />
+    <state width="1160" height="204" key="GridCell.Tab.0.bottom/0.23.1440.796@0.23.1440.796" timestamp="1593995324839" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center" timestamp="1594763812066">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1594763812066" />
+    <state width="1160" height="204" key="GridCell.Tab.0.center/0.23.1440.796@0.23.1440.796" timestamp="1593995324838" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left" timestamp="1594763812065">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1594763812065" />
+    <state width="1160" height="204" key="GridCell.Tab.0.left/0.23.1440.796@0.23.1440.796" timestamp="1593995324838" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right" timestamp="1594763812066">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1594763812066" />
+    <state width="1160" height="204" key="GridCell.Tab.0.right/0.23.1440.796@0.23.1440.796" timestamp="1593995324839" />
+  </component>
+</project>
